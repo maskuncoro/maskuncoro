@@ -1,5 +1,6 @@
 # Hello, I'm Kuncoro 👋
 
+![Kuncoro](https://drive.google.com/uc?export=view&id=15lrSHaYP0tAFzpti-OI_w88_HzQhNs-V?hl)
 
 ## Mas Kuncoro or Kuncoro, both are okay 😄
 

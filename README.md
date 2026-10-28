@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Kuncoro
 
-<!--
-**maskuncoro/maskuncoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mas Kuncoro, or Kuncoro — both are okay.
 
-Here are some ideas to get you started:
+## Keep Alive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I keep going. I keep learning. I keep showing up.
+
+## My Purpose
+
+Trying to be more useful to the people around me.
+
+## My Principle
+
+Remain humble and do not forget your true identity.
+
+## Plan
+
+- Keep growing in knowledge and character
+- Serve people with honesty and kindness
+- Stay grounded and grateful
+- Keep building a meaningful life, one step at a time
+
+> "Still alive, still learning, still trying to be useful."

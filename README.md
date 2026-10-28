@@ -1,8 +1,6 @@
 # Hello, I'm Kuncoro 👋
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=15lrSHaYP0tAFzpti-OI_w88_HzQhNs-V" alt="Mas Kuncoro" width="720" />
-</p>
+
 
 ## Mas Kuncoro or Kuncoro, both are okay 😄
 
